@@ -1,5 +1,5 @@
 # Description:
-#   Get SF Muni bus arrival predictions
+#   Hubot script description here
 #
 # Dependencies:
 #   None
